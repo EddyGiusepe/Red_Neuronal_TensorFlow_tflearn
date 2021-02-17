@@ -1,2 +1,8 @@
 # Red_Neuronal_TensorFlow_tflearn
-DNN
+
+Aqui utilizamos Dados de MNIST
+
+
+
+
+Thanks God!
